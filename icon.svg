@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#1a1a2e"/>
+  <circle cx="256" cy="240" r="120" fill="none" stroke="#e94560" stroke-width="16" stroke-dasharray="20 10"/>
+  <circle cx="256" cy="240" r="16" fill="#4285f4"/>
+  <circle cx="256" cy="240" r="8" fill="white"/>
+  <!-- Bell -->
+  <path d="M230 380 c0-8 12-14 26-14s26 6 26 14" fill="none" stroke="#e94560" stroke-width="6" stroke-linecap="round"/>
+  <path d="M220 370 c0-30 8-50 36-50s36 20 36 50" fill="none" stroke="#e94560" stroke-width="8" stroke-linecap="round"/>
+  <line x1="210" y1="370" x2="302" y2="370" stroke="#e94560" stroke-width="8" stroke-linecap="round"/>
+  <!-- Pin -->
+  <path d="M256 120 l0-40" stroke="#e94560" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="256" cy="72" r="12" fill="#e94560"/>
+</svg>
